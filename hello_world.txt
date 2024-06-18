@@ -1,0 +1,2 @@
+Este es el primer texto que "commiteo" a github,
+estoy actualmente siguiendo el "curso" de TheOdinProject
